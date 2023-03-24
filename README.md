@@ -1,7 +1,9 @@
 # Assessment-2
 
 import datetime
-
+class Course:
+    def __init__(self, name):
+  
 class Course:
     def __init__(self, name, start_date, end_date):
         self.name = name
