@@ -3,6 +3,11 @@
 import datetime
 
 class Course:
+    def __init__(self, name):
+        self.name = name
+        self.assignments = []
+
+class Course:
     def __init__(self, name, start_date, end_date):
         self.name = name
         self.start_date = start_date
