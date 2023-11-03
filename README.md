@@ -1,4 +1,4 @@
-# Assessment-2
+# PRJ-2
 
 import datetime
 
